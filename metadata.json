@@ -1,0 +1,8 @@
+{
+  "name": "Remix Chameleon Catch",
+  "description": "A vibrant 2D HTML5 Canvas arcade game where you track buzzing flies with a chameleon\u0027s eyes and snap its stretchy tongue to catch them before the 60-second clock runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
